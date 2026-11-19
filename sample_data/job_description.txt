@@ -1,0 +1,4 @@
+Data Scientist Intern
+We are looking for a candidate with strong Python and SQL skills, experience in machine learning,
+NLP and data visualization. Knowledge of pandas, scikit-learn, TensorFlow, Docker and Git is a plus.
+Good communication and problem solving skills are required.

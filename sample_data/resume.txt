@@ -1,0 +1,15 @@
+Riya Sharma
+riya.sharma@example.com | +91 98765 43210
+
+Education
+B.Tech in Computer Science, ABC University (2022-2026)
+
+Technical Skills
+Python, SQL, Pandas, NumPy, scikit-learn, Git, HTML, CSS, Machine Learning
+
+Projects
+Movie Recommender System - built a content-based recommender using TF-IDF and cosine similarity in Python.
+Sales Dashboard - cleaned data with Pandas and created charts with matplotlib.
+
+Experience
+Data Science Intern, XYZ Pvt Ltd (2 months) - worked on data analysis and reporting using Python and SQL.
