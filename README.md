@@ -55,6 +55,9 @@ python3 tests/test_analyzer.py
 
 ---
 
-## Evaluation Rubric Alignment (12 Marks)
+## Project Deliverables & Documentation
 
-For detailed viva talking points, formulas, literature comparison, and the traceability matrix, see **[EVALUATION_GUIDE.md](EVALUATION_GUIDE.md)** or click **Evaluation Rubric · 12 Marks** in the web header.
+- **Mini-Project Report (PDF):** [Mini_Project_Report_CSET312.pdf](Mini_Project_Report_CSET312.pdf)
+- **Mini-Project Report (Word):** [Mini_Project_Report_CSET312.docx](Mini_Project_Report_CSET312.docx)
+- **Presentation Slides:** [AI_Resume_Analyzer_Presentation.pptx](AI_Resume_Analyzer_Presentation.pptx)
+- **Interactive Rubric:** Click **Evaluation Rubric · 12 Marks** in the web header of `index.html`.
